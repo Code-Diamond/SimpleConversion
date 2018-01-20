@@ -1,0 +1,10 @@
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\bin\Debug\SimpleConversionConsoleApp.exe.config
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\bin\Debug\SimpleConversionConsoleApp.exe
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\bin\Debug\SimpleConversionConsoleApp.pdb
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\obj\Debug\SimpleConversionConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\obj\Debug\SimpleConversionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\obj\Debug\SimpleConversionConsoleApp.exe
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\obj\Debug\SimpleConversionConsoleApp.pdb
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\bin\Debug\SimpleConversion.exe
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\bin\Debug\SimpleConversion.pdb
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionConsoleApp\bin\Debug\SimpleConversion.exe.config

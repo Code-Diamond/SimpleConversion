@@ -1,0 +1,10 @@
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\bin\Debug\SimpleConversion.exe.config
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\bin\Debug\SimpleConversion.exe
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\bin\Debug\SimpleConversion.pdb
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.csprojResolveAssemblyReference.cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.Properties.Resources.resources
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.SimpleConversionMainForm.resources
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.csproj.GenerateResource.Cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.csproj.CoreCompileInputs.cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.exe
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversion\obj\Debug\SimpleConversion.pdb

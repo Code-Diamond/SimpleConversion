@@ -1,0 +1,16 @@
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\SimpleConversionUnitTesting.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\SimpleConversionUnitTesting.pdb
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\SimpleConversion.exe
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\SimpleConversion.pdb
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\SimpleConversion.exe.config
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\obj\Debug\SimpleConversionUnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\obj\Debug\SimpleConversionUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\obj\Debug\SimpleConversionUnitTesting.dll
+C:\Users\Jamin\source\repos\SimpleConversion\SimpleConversionUnitTesting\obj\Debug\SimpleConversionUnitTesting.pdb
